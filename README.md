@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ejaszke
 - 👀 I’m interested in full stack application development, architecture etc.
-- 🌱 I’m currently learning golang and methods to work smoothly with legacy code 
-- 💞️ I’m looking to collaborate on project written with (TS / React / Angular / node.js / golang)
+- 🌱 I’m currently learning .net in the cloud
+- 💞️ I’m looking to collaborate on project written with (TS / React / Angular / node.js / .net / golang)
 - 📫 How to reach me: by PR
 
 <!---
